@@ -14,15 +14,8 @@ A clean, structured Express.js API starter with TypeScript, featuring user and p
 - TypeScript support
 - Structured project layout
 
-## Flowchart
+## 📃 Flowchart
 ![Flowchart](https://github.com/web-projects-cp/express-ts-api-starter/blob/main/flowchart1.png)
-
-flowchart LR
-    A[Client] -->|HTTP Request| B[Logger]
-    B --> C[Router]
-    C --> D[User/Product Logic]
-    D -->|Success| E[Response]
-    D -->|Error| F[Error Handler]
 
 ## 🏗️ Project Structure
 
