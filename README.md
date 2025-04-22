@@ -37,7 +37,7 @@ src/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/express-api-starter.git
+   git clone https://github.com/web-projects-cp/express-ts-api-starter.git
    ```
 2. Install dependencies:
    ```bash
